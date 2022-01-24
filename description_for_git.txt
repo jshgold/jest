@@ -15,3 +15,9 @@ git log
 
 git checkout log에 보여지는 commit key(7자리 이상)
 git checkout - 는 최신 log로 돌아옴
+
+
+github 연결
+
+git remote origin #https://github.com/~~~~
+git push origin #branch_name
