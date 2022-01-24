@@ -1,0 +1,17 @@
+컴퓨터에 git 설치>> 로컬 저장소 만들기>> 내용(웹페이지 제작) 커밋 만들기>> 원격저장소의 커밋을 로컬저장소로 내려받기
+>> 로컬저장소 갱신>> 원격저장소 커밋 올리기
+
+
+git init
+git config --global user.email "jshgold@naver.com"
+git config --global user.name "jshgold"
+git add #추가할 파일명
+git commit -m  "#파일설명"						메모장 미니팁 - .LOG 쓰고 저장하면 열때마다 연시간이 기록된다.
+ >> -m message
+
+git log 
+ >>여지껏 작업한 log 보여줌.
+
+
+git checkout log에 보여지는 commit key(7자리 이상)
+git checkout - 는 최신 log로 돌아옴
