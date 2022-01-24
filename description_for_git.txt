@@ -19,5 +19,10 @@ git checkout - 는 최신 log로 돌아옴
 
 github 연결
 
-git remote origin #https://github.com/~~~~
+git remote add origin #https://github.com/~~~~
 git push origin #branch_name
+
+
+git 사용 간단 정리
+#error: failed to push some refs to 떴을때 참조.
+https://dh-dh.tistory.com/47
